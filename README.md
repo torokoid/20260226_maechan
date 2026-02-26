@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">いつもの屋根上には鳩が居座ってます</span></h2>
 <a href="20260226_003.JPG" target="_blank"><img src="20260226_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">お昼ご飯は、この日もお弁当</span></h2>
+<h2><span class="yellow">お昼ご飯は、この日もお弁当<br>茶色いスープは上からかけます、オレンジはちょっとづつ試しながら追加</span></h2>
 <a href="20260226_004.JPG" target="_blank"><img src="20260226_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">国道を南下してメーチャンの街に向かうところ、道路の右はお寺、山々も霞んでます</span></h2>
